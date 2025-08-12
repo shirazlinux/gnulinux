@@ -17,8 +17,8 @@ export default function Footer() {
           <div className="footer__rights-container">
             <p className="rights">
               کلیه حقوق مادی و معنوی این سایت متعلق به{" "}
-              <a href="https://shirazlinuxcommunity.ir/" target="_blank">
-                تیم اجرایی
+              <a href="https://sudoshz.ir/" target="_blank">
+                شیرازلینوکس
               </a>{" "}
               می‌باشد
             </p>
@@ -27,7 +27,7 @@ export default function Footer() {
                 <img src="main/instagram.svg" alt="اینستاگرام " />
               </a>
 
-              <a href="https://t.me/gnulinux_ir">
+              <a href="https://t.me/sudoshz">
                 <img src="main/send-2.svg" alt="تلگرام جامعه لینوکس شیراز" />
               </a>
             </div>
