@@ -16,11 +16,11 @@ export default function Footer() {
           </div>
           <div className="footer__rights-container">
             <p className="rights">
-              کلیه حقوق مادی و معنوی این سایت متعلق به{" "}
+               سورس کد تحت مجوز{" "}
               <a href="https://sudoshz.ir/" target="_blank">
-                شیرازلینوکس
+                GPLv3.0 
               </a>{" "}
-              می‌باشد
+             منتشر شده است.
             </p>
             <div className="socials">
               <a href="https://www.instagram.com/shirazlinux/">

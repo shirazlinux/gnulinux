@@ -20,8 +20,8 @@ export default function FooterRight() {
       <div className="footer__mail">
         <img src="/main/sms-tracking.svg" alt="" />
         <p className="mail__text">
-          <a href="mailto:contact@shirazlinuxcommunity.ir">
-            contact@shirazlinuxcommunity.ir
+          <a href="mailto:info@sudoshz.ir">
+            info@sudoshz.ir
           </a>
         </p>
       </div>

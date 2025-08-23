@@ -10,8 +10,7 @@
         {"id":"8", "name":"علی امامعلی نژاد", "photo":"main/ali-emamali-nezhad.png", "info":"توسعه بک اند با توسعه معماری TDD (Test Driven Development)"},
         {"id":"9", "name":"علی باقرنیا", "photo":"main/ali-baghernia.jpg", "info":"ابزارهایی برای تبدیل شدن به فول استک دولوپر"},
         {"id":"10", "name":"محمد مسلمی", "photo":"main/mohamad-moslemi.jpg", "info":"DPDK"},
-        {"id":"11", "name":"دانیال بهزادی", "photo":"main/danial-behzadi.jpg", "info":"۲۰ سال با گنو"},
-        {"id":"12", "name":"محمد نصیری", "photo":"main/mohammad-nasiri.jpg", "info":"لینوکس یا ویندوز، بدون تعصب"}
+        {"id":"11", "name":"دانیال بهزادی", "photo":"main/danial-behzadi.jpg", "info":"۲۰ سال با گنو"}
     ],
     "__comments__": [
         {"id":"13", "name":"پیکان لاری", "photo":"", "info":"مفهوم گنوم"},
