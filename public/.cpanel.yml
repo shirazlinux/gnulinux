@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/sudoshzi/public_html/gnulinux
+    - /bin/cp -r * $DEPLOYPATH
